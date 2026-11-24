@@ -1,6 +1,6 @@
 
-CREATE DATABASE IF NOT EXISTS sianmanlapaz;
-USE sianmanlapaz;
+CREATE DATABASE IF NOT EXISTS aira2e;
+USE aira2e;
 
 DROP TABLE IF EXISTS enrollments;
 DROP TABLE IF EXISTS subjects;
